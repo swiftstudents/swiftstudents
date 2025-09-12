@@ -27,7 +27,7 @@ function App() {
           <h1 className="app-title">For Swift Students</h1>
           <p className="description-text">Here are Swift students communities from around the world.</p>
           <a 
-            href="https://github.com/swiftstudents/swiftstudents?tab=readme-ov-file#contributing"
+            href="https://github.com/swiftstudents/swiftstudents?tab=readme-ov-file#-contributing"
             target="_blank" 
             rel="noopener noreferrer"
             className="add-community-link"
