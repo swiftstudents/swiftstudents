@@ -1,4 +1,6 @@
-# swiftstudents.com
+![swift-student-challenge](https://github.com/user-attachments/assets/767bafde-0e08-4893-b47b-4ecde1b18b57)
+
+# [swiftstudents.com](swiftstudents.com)
 
 A beautiful, responsive web application showcasing Swift student communities from around the world. Built with React and featuring Apple Liquid Glass design aesthetics.
 
